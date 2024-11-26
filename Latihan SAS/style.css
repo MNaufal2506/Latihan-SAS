@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Fjalla+One&family=Oswald:wght@200..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+#Latihan-1{
+    background-color: #F5EFE6;
+    width: 100%;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+
+.Sekap{
+    display: flex;
+    align-items: center;
+}
+
+.Text{
+    margin-left: 80px;
+    h1{
+        font-size: 60px;
+        font-family: 'Fjalla One';
+        color: #34221F;
+        font-weight:500;
+        word-spacing: 7px;
+    }
+
+    p{
+        font-size: 21px;
+        font-family: 'Inter';
+        font-weight: 100px;
+        word-spacing: 5px;
+        line-height: 30px;
+        margin-top: -30px;
+    }
+
+    
+}
+
+.image{
+    /* margin-right: -200px; */
+    
+    margin-left: 260px;
+    img{
+        width: 400px;
+    }
+}
